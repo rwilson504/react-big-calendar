@@ -16,6 +16,7 @@
   "style": "lib/css/react-big-calendar.css",
   "files": [
     "lib/",
+    "src/",
     "dist/",
     "LICENSE",
     "README.md",
